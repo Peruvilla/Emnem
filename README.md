@@ -11,5 +11,3 @@ Keep on Testing
  ##### ABC
  ###### ABC - THIS IS THE SMALLEST HEADER
  
-Link for Github Emojis
-
